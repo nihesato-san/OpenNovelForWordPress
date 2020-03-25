@@ -1,0 +1,2 @@
+# OpenNovelForWordPress
+Web小説のオープンソース運用を補助するためのWordPressのPlugin
